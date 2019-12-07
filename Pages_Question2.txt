@@ -1,0 +1,2 @@
+SELECT SUM(Home_Page),SUM(Product_Page),SUM(Warranty_Page)
+From Pages;
